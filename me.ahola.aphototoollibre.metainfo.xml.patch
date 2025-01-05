@@ -1,0 +1,20 @@
+--- a/desktop-std/me.ahola.aphototoollibre.metainfo.xml	2025-01-05 10:37:07.557484274 -0500
++++ b/desktop-std/me.ahola.aphototoollibre.metainfo.xml	2025-01-05 10:41:33.920493759 -0500
+@@ -7,6 +7,8 @@
+   
+   <metadata_license>FSFAP</metadata_license>
+   <project_license>GPL-3.0-or-later</project_license>
++
++  <developer_name>aphototoollibre</developer_name>
+   
+   <description>
+     <p>
+@@ -33,7 +35,7 @@
+     <category>Graphics</category>
+   </categories>
+ 
+-  <content_rating type="oars-1.0" />
++  <content_rating type="oars-1.1" />
+ 
+   <keywords>
+     <keyword>photography</keyword>

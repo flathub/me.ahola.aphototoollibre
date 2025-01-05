@@ -16,3 +16,5 @@ modules:
       - type: archive
         url: https://github.com/aphototool/A-Photo-Tool-Libre/archive/refs/tags/v1.0.6-1.tar.gz
         sha256: d0a9ea63142e12f412e36e5a58d20789b542ed6f7113556d0d614a35bd58a483
+      - type: patch
+        path: me.ahola.aphototoollibre.metainfo.xml.patch

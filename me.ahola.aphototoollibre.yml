@@ -1,6 +1,6 @@
 app-id: me.ahola.aphototoollibre
 runtime: org.kde.Platform
-runtime-version: '5.15-24.08'
+runtime-version: '6.8'
 sdk: org.kde.Sdk
 command: aphototoollibre
 finish-args:
@@ -14,7 +14,7 @@ modules:
     buildsystem: cmake
     sources:
       - type: archive
-        url: https://github.com/aphototool/A-Photo-Tool-Libre/archive/refs/tags/v1.0.6-1.tar.gz
-        sha256: d0a9ea63142e12f412e36e5a58d20789b542ed6f7113556d0d614a35bd58a483
+        url: https://github.com/aphototool/A-Photo-Tool-Libre/archive/refs/tags/v1.0.7-1.tar.gz
+        sha256: 9bbb90991ca2c2104ece60106012974daf5b053dc309e5fe6e1a39dbc5153fda
       - type: patch
         path: me.ahola.aphototoollibre.metainfo.xml.patch
